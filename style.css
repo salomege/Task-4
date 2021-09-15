@@ -1,0 +1,33 @@
+.logo {
+	width: 115px;
+	
+}
+
+header {
+	background-color: #0020F4;
+	height: 388px;
+}
+.navbar-a {
+	color: white;
+	font-size: 16px;
+	text-decoration: none;
+}
+ul{
+	list-style-type: none;
+}
+.main-image {
+	height: 600px;
+}
+
+h2 {
+	font-size: 28px;
+}
+.editional-information {
+	font-size: 16px;
+	color: white;
+	background-color:#0020F4;
+	text-decoration: none;
+}
+footer {
+	background-color: #0020F4;
+}

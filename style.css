@@ -1,12 +1,12 @@
-.logo {
-	width: 115px;
-}
-
 header {
 	background-color: #0020F4;
 	height: 388px;
 	padding-top: 50px;
 	padding-left: 240px;
+}
+.logo {
+	width: 115px;
+	margin-right: 603px;
 }
 .navbar-a {
 	color: white;
@@ -24,10 +24,12 @@ ul{
 h2 {
 	font-size: 28px;
 	margin-top: 30px;
-	margin-bottom: 60px;
 }
 div {
 	margin-bottom: 60px;
+}
+.formargin {
+	margin-right: 25px;
 }
 p {
 	font-size: 16px;
@@ -49,8 +51,12 @@ footer {
 	height: 1080px;
 	padding-bottom: 32px;
 	padding-top: 275px;
+	margin-top: 60px;
 }
 .footer-logo {
 	width: 121px;
-
+}
+h6 {
+	color: white;
+	font-size: 16px;
 }
